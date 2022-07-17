@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Qual é o CEP</string>
+
+    <string name="app_map_warning_title">Aplicação não encontrada!</string>
+    <string name="app_map_warning">Você precisa ter pelo menos um app de mapas instalado para poder ver no mapa.</string>
+    <string name="button">button</string>
+    <string name="could_not_access">Verifique sua conexão com a internet.</string>
+    <string name="none">Nenhuma</string>
+    <string name="see_map">Ver no mapa</string>
+    <string name="share_using">Compartilhar usando&#8230;</string>
+    <string name="text_empty_topics">Nenhum endereço salvo. Pesquise qualquer endereço ou CEP válido do Brasil e salve-os para ver sem internet.</string>
+    <string name="zip_tosahre">Compartilhar</string>
+    <string name="zip_save">Salvar endereço</string>
+    <string name="zip_remove">Remover endereço</string>
+    <string name="zip_added">O endereço foi salvo!</string>
+    <string name="zip_removed">O endereço foi removido</string>
+    <string name="off_mode">Modo Offline</string>
+    <string name="search_type">Digite um CEP ou endereço</string>
+    <string name="search_city">Cidade</string>
+    <string name="off_mode_warning">O modo offline muda a busca online para a busca de endereços que você salvou.</string>
+    <string name="i_got_it">Entendi</string>
+    <string name="no_conection_message">Modo offline não pode ser desativado. Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="no_conection_init_message">Você está no Modo offline</string>
+    <string name="off_mode_filter_message">O filtro não pode ser ativado no modo offline!</string>
+    <string name="message_leaving">Já vai? Ajude a manter esse projeto livre de anúncio.</string>
+    <string name="rate_us">Nos Avalie</string>
+    <string name="why_not">Avaliar</string>
+    <string name="leave">Sair</string>
+    <string name="copied">Endereço copiado</string>
+    <string name="copy">Copiar endereço</string>
+    <string name="address_not_found">Endereço não encontrado</string>
+    <string name="more_apps">Mais Apps</string>
+    <string name="not_now">Agora não</string>
+    <string name="see">Ver</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+</resources>

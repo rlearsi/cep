@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTheme0">#23a24d</color>
+    <color name="colorAccent">#23a24d</color>
+    <color name="colorAccentB">#1A7C3B</color>
+    <color name="colorAccentTitle">#17262A</color>
+    <color name="colorPress">#EAEAEB</color>
+    <color name="colorLine">#e9e9e9</color>
+    <color name="colorCallBack">#da9a0e</color>
+    <color name="color2">#93939e</color>
+    <color name="color3">#82929a</color>
+    <color name="colorHint">#d8d8d8</color>
+    <color name="background1">#f7f7f7</color>
+    <color name="border1">#f4f4f5</color>
+
+</resources>
